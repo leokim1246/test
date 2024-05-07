@@ -43,4 +43,4 @@ EOF
 # git commit & push
 git add nginx
 git commit -m "Initialize nginx manifest"
-git push origin/main
+git push
